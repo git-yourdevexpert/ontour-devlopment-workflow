@@ -1,0 +1,6 @@
+{
+  "/api/hello/route": "app/api/hello/route.js",
+  "/development-process/page": "app/development-process/page.js",
+  "/page": "app/page.js",
+  "/techenical-info/page": "app/techenical-info/page.js"
+}
